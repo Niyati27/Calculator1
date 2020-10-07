@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUI", "WebApplication2\CalculatorUI.csproj", "{81264DFB-5A71-453C-B283-3364E89AA781}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperation", "..\MathOperation\MathOperation\MathOperation.csproj", "{930C469A-3034-4C42-9012-03B5D78C8262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81264DFB-5A71-453C-B283-3364E89AA781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81264DFB-5A71-453C-B283-3364E89AA781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81264DFB-5A71-453C-B283-3364E89AA781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81264DFB-5A71-453C-B283-3364E89AA781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930C469A-3034-4C42-9012-03B5D78C8262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930C469A-3034-4C42-9012-03B5D78C8262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930C469A-3034-4C42-9012-03B5D78C8262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930C469A-3034-4C42-9012-03B5D78C8262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77D51986-0A70-4448-A96F-4459203177F4}
+	EndGlobalSection
+EndGlobal
